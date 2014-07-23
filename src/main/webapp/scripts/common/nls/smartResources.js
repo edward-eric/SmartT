@@ -1,0 +1,137 @@
+define({
+root: {
+
+
+    "UPC": "UPC",
+    "Description": "Description",
+    "Elasticity": "Relative Elasticity",
+    "Volume": "Relative Volume",
+    "Quadrant": "Quadrant",
+    "Strength": "Strength",
+    "Brand": "Brand",
+    "Size": "Size",
+    "UOM": "UOM",
+    "ElasticityToolTipTitle": "Relative Elasticity:",
+    "VolumeToolTipTitle": "Relative Volume:",
+    "DescriptionToolTipTitle": "Description:",
+    "StrengthToolTipTitle": "Strength:",
+
+    "category": "Category",
+    "division": "Division",
+
+    "exportLabel": "Export",
+
+    "export": "Export...",
+    "exportToCSV": "Export to CSV",
+    "exportDialogTitle": "Export",
+    "separator":"Separator",
+    "useFormatters":"Use Formatters",
+    "chooseColumns":"Choose Columns",
+
+    "toggleChart": "Toggle Chart",
+    "toggleGrid": "Toggle Grid",
+
+    "Quadrant_0": "IMAGE",
+    "Quadrant_1": "PROFIT DRIVER",
+    "Quadrant_2": "NICHE HIGH SENSITIVITY",
+    "Quadrant_3": "NICHE LOW SENSITIVITY",
+
+    "copyToClipboard":"Copy to Clipboard",
+
+    "nullCase": "--",
+    "percentageSymbol": "%",
+    "tooltipSeparator": ":",
+
+    "Name": "CPI Name",
+    "OldCPI": "Old CPI",
+    "NewCPI": "New CPI",
+    "CurrentCPI": "Current CPI",
+    "CPIChange": "CPI Change",
+    "GoalCPI": "Goal CPI",
+    "CPIChart": "CPI Chart",
+    "GoalDiff": "Goal Diff",
+    "Coverage": "% Cover",
+    "VolCoverage": "% Vol Cover",
+    "TPR": "TPR",
+    "UseVolume": "Use Volume",
+    "Status": "Status",
+    "CompetitorWeighting": "Competitor Weighting",
+    "TimeFrame": "Time Frame",
+    "CalculationDate": "Calculation Date",
+    "StoreGroup": "Store Group",
+    "ProductGroup": "Product Group",
+    "Competitors": "Comp #",
+    "OldSales": "Old Sales$",
+    "NewSales": "New Sales$",
+    "SalesDollarChg": "Sales Chg$",
+    "SalesDollarChgPer": "Sales Chg%",
+    "OldGMDollar": "Old GM$",
+    "NewGMDollar": "New GM$",
+    "GMDollarChg": "GM$ Chg",
+    "GMDollarChgPercent": "GM$ Chg%",
+    "OldGMPer": "Old GM%",
+    "NewGMPer": "New GM%",
+    "GMChgPer": "GM% Chg",
+    "OldVolume": "Old Volume",
+    "NewVolume": "New Volume",
+    "VolChg": "Vol Chg",
+    "VolChgPer": "Vol Chg%",
+    "SalesContr": "%Sales Contrib",
+    "GMDollarContr": "%GM$ Contrib",
+    "VolContr": "%Vol Contrib",
+    
+    "Zone": "Zone",
+    
+
+    "agg4CPIChain": "CPI/Chain",
+    "agg4CPIZone": "CPI/Zone",
+
+    "aggregation": "Aggregation",
+
+    "CPI": "CPI",
+
+    "CompetitorHELTITLE":"Competitive Position",
+    "barChartXAxisTitleALLZONES":"# Products",
+    "barChartXAxisTitleZone":"# Product-Zones",
+    "products":"products:",
+    "zone":"Zone:",
+    "primary":"Primary",
+    "secondary":"Secondary",
+    "tertiary":"Tertiary",
+    "Old":"Old",
+    "New":"New",
+    "Current":"Current",
+    "allZone":"All",
+
+
+    "cpiStatus-2": "Incomplete",
+    "cpiStatus-1": "Not Calculated",
+    "cpiStatus0": "Calculating CPI...",
+    "cpiStatus1": "Calculated",
+    "cpiStatus2": "No SKU store competitor info",
+    "cpiStatus3": "CPI definition changed. Recalculate!",
+    "cpiStatus4": "No SKUs in the Product Group",
+    "cpiStatus5": "No Stores in the Store Group",
+    "cpiStatus6": "No SKU store price data",
+    "cpiStatus7": "No Stores in the Zone Group",
+    "cpiStatus8": "Error",
+    "cpiStatus9": "Cancelled",
+    "cpiStatus12": "No SKU zone competitor info",
+    "cpiStatus16": "No SKU zone price data",
+
+    "max": "Maximize",
+    "restore": "Restore",
+    "update": "Update Competitor Data",
+    "competitiveTitle": "Competitive Dashboard for Scenario Run ID:",
+
+    "weightSet0": "Default",
+    "weightSet1": "Customize",
+
+    "dataNotAvailableMessageForPrimary": "Data not available for the Primary chart",
+    "dataNotAvailableMessageForSecondary": "Data not available for the Secondary chart",
+    "dataNotAvailableMessageForTertiary": "Data not available for the Tertiary chart",
+    "chart": "chart",
+    "dataNotAvailableForImageItem": "Data to generate the Price Image Item report is not available",
+    "copySuccess": "Success"
+}
+});

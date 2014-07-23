@@ -1,0 +1,12 @@
+.claro .dijitToolbar {
+  background-color: rgb(169, 223, 228);
+  background-repeat: repeat-x;
+  background-image: none;
+  padding: 2px 0px 2px 4px;
+}
+
+.claro .dijitToolbar label{
+  padding: 2px 3px 2px 6px;
+  font-weight: bold;
+  font-size: 20px;
+}
