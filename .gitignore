@@ -2,3 +2,7 @@
 /src/main/webapp/scripts/dojo/
 /src/main/webapp/scripts/dojox/
 /src/main/webapp/scripts/util/
+/target/
+/.settings/
+.classpath
+.project
